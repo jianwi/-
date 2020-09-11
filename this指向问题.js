@@ -52,3 +52,5 @@ let testObj  = {
 
 let out_b = testObj.t
 // out_b()　// testObj
+
+// 显示绑定
